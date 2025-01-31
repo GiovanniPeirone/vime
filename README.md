@@ -1,8 +1,5 @@
 # vim-wq
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-new text editor
+the vim ide
 
 
 
