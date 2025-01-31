@@ -2,9 +2,11 @@
   "name": "vimwq",
   "version": "1.0.0",
   "description": "new text editor",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "start": "electron .",
+    "package": "electron-packager . ElectronApp"
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,10 @@
   },
   "homepage": "https://github.com/GiovanniPeirone/vimwq#readme",
   "devDependencies": {
-    "electron": "^34.0.2"
+    "@types/electron": "^1.4.38",
+    "@types/node": "^22.12.0",
+    "electron": "^34.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
   }
 }
