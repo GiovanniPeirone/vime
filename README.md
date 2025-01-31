@@ -90,13 +90,4 @@ AI-based code suggestions
 Automatic refactoring
 
 Static code analysis
-=======
->>>>>>> Stashed changes
-the vim ide
 
-
-
-<<<<<<< Updated upstream
-=======
->>>>>>> 8773e478b61a7bfc5c7a41548ecc65a7e6b46aee
->>>>>>> Stashed changes
