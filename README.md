@@ -1,2 +1,5 @@
 # vim-wq
-new text editor
+the vim ide
+
+
+
