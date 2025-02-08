@@ -91,3 +91,14 @@ Automatic refactoring
 
 Static code analysis
 
+
+# Text Editor (NeoVim) lenguaje compatibility
+
+  -  Python
+  -  JavaScript/TypeScript
+
+# Ide Lenguaje compatibility
+
+
+
+
