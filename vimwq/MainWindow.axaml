@@ -5,5 +5,21 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="vimwq.MainWindow"
         Title="vimwq">
-    hola pepito
+	<DockPanel>
+		<Menu DockPanel.Dock="Top" FontSize="15">
+			<MenuItem Header="_File">
+				<MenuItem Header="_Open Project..."/>
+				<Separator/>
+				<MenuItem Header="_Exit"/>
+			</MenuItem>
+			<MenuItem Header="_Termina">
+				<MenuItem Header="New Terminal"/>
+				<MenuItem Header="asd"/>
+			</MenuItem>
+            <MenuItem Header="_Help">
+               <MenuItem Header="_Controls"/> 
+            </MenuItem>
+		</Menu>
+		<TextBlock Text="Hola Pepito"/>
+	</DockPanel>
 </Window>
