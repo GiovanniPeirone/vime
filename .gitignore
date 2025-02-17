@@ -13,3 +13,4 @@ out/
 *.sln.docstates
 
 .vs
+.sln
