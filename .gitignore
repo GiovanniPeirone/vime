@@ -11,3 +11,5 @@ out/
 *.user
 *.userosscache
 *.sln.docstates
+
+.vs
