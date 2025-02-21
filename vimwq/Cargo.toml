@@ -1,8 +1,0 @@
-[package]
-name = "vimwq"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-gtk = { version = "0.7", package = "gtk4" }
-glib = "0.18"
