@@ -13,4 +13,5 @@ out/
 *.sln.docstates
 
 .vs
+.vscode
 .sln
