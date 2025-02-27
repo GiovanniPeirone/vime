@@ -1,0 +1,8 @@
+[package]
+name = "tm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tui = { version = "0.17", features = ["crossterm"], default-features = false }
+crossterm = "0.24"
